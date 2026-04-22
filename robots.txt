@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://somethin097-bit.github.io/Railway/sitemap.xml
